@@ -82,7 +82,6 @@ main {
   background: rgb(211, 129, 231);
   width: 580px;
   height: 370px;
-  font: oblique bold 120% cursive;
   transition: all .65s;
 }
 
